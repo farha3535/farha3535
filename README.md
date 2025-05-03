@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @farha3535
-- 👀 I’m interested in exploring the world.
-- 🌱 I’m currently learning data analytics and ML.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Farha 👋
 
-<!---
-farha3535/farha3535 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MBA in Business Analytics | 📊 Data Analytics & Strategy Enthusiast  
+🔍 Skilled in Excel, SQL, Tableau, Python | Passionate about solving real-world problems using data  
+💼 Experienced in operations, analytics, and performance tracking with 3+ years of industry experience  
+🚀 Building projects in market analysis, forecasting, cohort analysis, and churn prediction  
+
+📫 Let's connect:http://www.linkedin.com/in/farhatunnisha-shaikh
+ 
